@@ -2,7 +2,7 @@
 
 # How to provoke the segFault:
 
-To install ecto and ORK follow these steps:
+To install ecto and ORK follow these steps: \n
 1.) mkdir ws && cd ws
 2.) export DISTRO=hydro
 3. )sudo apt-get install libopenni-dev ros-${DISTRO}-catkin ros-${DISTRO}-ecto* ros-${DISTRO}-opencv-candidate ros-${DISTRO}-moveit-msgs
